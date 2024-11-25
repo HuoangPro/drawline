@@ -6,7 +6,7 @@
     make
     ./robotdraw
 
-![result.bmp](https://github.com/HuoangPro/drawline/src/console/result.bmp)
+![result.bmp](https://raw.githubusercontent.com/HuoangPro/drawline/refs/heads/main/src/console/result.bmp)
 
 ## UI version
 
@@ -15,4 +15,4 @@ Require: [QT installation](https://doc.qt.io/qt-6/qt-online-installation.html)
     qmake
     ./robotdraw
 
-![ui.png](https://github.com/HuoangPro/drawline/src/ui/ui.png)
+![ui.png](https://raw.githubusercontent.com/HuoangPro/drawline/refs/heads/main/src/ui/ui.png)
