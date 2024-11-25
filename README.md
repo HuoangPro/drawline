@@ -12,7 +12,8 @@
 
 Require: [QT installation](https://doc.qt.io/qt-6/qt-online-installation.html)
 
-    qmake
+    qmake robotdraw.pro
+    make
     ./robotdraw
 
 ![ui.png](https://raw.githubusercontent.com/HuoangPro/drawline/refs/heads/main/src/ui/ui.png)
